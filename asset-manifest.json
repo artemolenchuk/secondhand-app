@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/static/js/main.40364073.js",
-    "static/js/49.2e5a00fe.js": "/static/js/49.2e5a00fe.js",
+    "static/js/49.94575474.js": "/static/js/49.94575474.js",
     "static/media/secondone.png": "/static/media/secondone.4f94c53fd8f239efd1dd.png",
     "static/media/Ionicons.ttf": "/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
     "static/media/secondtwo.png": "/static/media/secondtwo.58a34406af2f3922f91f.png",
@@ -30,10 +30,10 @@
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
     "main.40364073.js.map": "/static/js/main.40364073.js.map",
-    "49.2e5a00fe.js.map": "/static/js/49.2e5a00fe.js.map"
+    "49.94575474.js.map": "/static/js/49.94575474.js.map"
   },
   "entrypoints": [
-    "static/js/49.2e5a00fe.js",
+    "static/js/49.94575474.js",
     "static/js/main.40364073.js"
   ]
 }
