@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "secondhand-viewer",
+  "short_name": "secondhand-viewer",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.artem.olenchuk.secondhandviewer"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.artem.olenchuk.secondhandviewer",
+      "id": "com.artem.olenchuk.secondhandviewer"
+    }
+  ],
+  "prefer_related_applications": true
+}
